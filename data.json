@@ -1,0 +1,176 @@
+{
+  "characters": [
+    {
+      "name": "Odiseo",
+      "title": "El héroe astuto",
+      "description": "Rey de Ítaca, famoso por su inteligencia y astucia. Protagonista de la obra, su ingenio le permite superar cada obstáculo en su viaje de regreso a casa. Es el arquetipo del héroe griego que combina fuerza física con sabiduría.",
+      "image": "/placeholder.svg?height=500&width=400",
+      "role": "Protagonista"
+    },
+    {
+      "name": "Penélope",
+      "title": "La esposa fiel",
+      "description": "Esposa de Odiseo, símbolo de fidelidad y paciencia. Durante veinte años espera el regreso de su esposo mientras engaña a los pretendientes con su famoso telar, destejiendo de noche lo que tejía de día.",
+      "image": "/placeholder.svg?height=500&width=400",
+      "role": "Esposa de Odiseo"
+    },
+    {
+      "name": "Telémaco",
+      "title": "El hijo valiente",
+      "description": "Hijo de Odiseo y Penélope. Al inicio de la obra es un joven inseguro que, guiado por Atenea, emprende un viaje para buscar noticias de su padre y madura hasta convertirse en un digno heredero.",
+      "image": "/placeholder.svg?height=500&width=400",
+      "role": "Hijo de Odiseo"
+    },
+    {
+      "name": "Atenea",
+      "title": "La diosa protectora",
+      "description": "Diosa de la sabiduría y la guerra estratégica. Protectora de Odiseo, interviene constantemente para ayudarle en su viaje y guía a Telémaco. Representa la astucia divina que favorece al héroe.",
+      "image": "/placeholder.svg?height=500&width=400",
+      "role": "Aliada divina"
+    },
+    {
+      "name": "Poseidón",
+      "title": "El dios vengativo",
+      "description": "Dios del mar y principal antagonista divino. Su ira hacia Odiseo por cegar a su hijo Polifemo es la causa de las desgracias del héroe en el mar, provocando tormentas y naufragios.",
+      "image": "/placeholder.svg?height=500&width=400",
+      "role": "Antagonista"
+    },
+    {
+      "name": "Antínoo",
+      "title": "El pretendiente arrogante",
+      "description": "Líder de los pretendientes que invaden el palacio de Odiseo. Representa la hybris (soberbia) griega. Es cruel, arrogante y el primero en caer ante la venganza de Odiseo a su regreso.",
+      "image": "/placeholder.svg?height=500&width=400",
+      "role": "Líder de los pretendientes"
+    }
+  ],
+  "cantos": [
+    {
+      "number": "I",
+      "title": "Concilio de los dioses",
+      "summary": "Los dioses deciden el destino de Odiseo. Atenea visita a Telémaco disfrazada."
+    },
+    {
+      "number": "II",
+      "title": "Asamblea de Ítaca",
+      "summary": "Telémaco convoca una asamblea y decide buscar noticias de su padre."
+    },
+    {
+      "number": "III",
+      "title": "En Pilos",
+      "summary": "Telémaco visita a Néstor, quien le cuenta sobre la Guerra de Troya."
+    },
+    { "number": "IV", "title": "En Esparta", "summary": "Menelao y Helena reciben a Telémaco y le hablan de Odiseo." },
+    {
+      "number": "V",
+      "title": "Calipso",
+      "summary": "Por orden de Zeus, Calipso libera a Odiseo, quien construye una balsa."
+    },
+    {
+      "number": "VI",
+      "title": "Nausícaa",
+      "summary": "Odiseo naufraga en Esqueria y es encontrado por la princesa Nausícaa."
+    },
+    {
+      "number": "VII",
+      "title": "Palacio de Alcínoo",
+      "summary": "Odiseo es recibido en el palacio del rey de los feacios."
+    },
+    {
+      "number": "VIII",
+      "title": "Juegos feacios",
+      "summary": "Odiseo participa en juegos y escucha al aedo Demódoco."
+    },
+    {
+      "number": "IX",
+      "title": "Polifemo",
+      "summary": "Odiseo narra su encuentro con el cíclope Polifemo y cómo lo cegó."
+    },
+    { "number": "X", "title": "Eolo y Circe", "summary": "Aventuras con Eolo, los lestrigones y la hechicera Circe." },
+    { "number": "XI", "title": "El Hades", "summary": "Odiseo desciende al inframundo y habla con los muertos." },
+    {
+      "number": "XII",
+      "title": "Sirenas, Escila y Caribdis",
+      "summary": "Enfrentamiento con las sirenas, Escila, Caribdis y las vacas del Sol."
+    },
+    {
+      "number": "XIII",
+      "title": "Llegada a Ítaca",
+      "summary": "Los feacios llevan a Odiseo a Ítaca. Atenea lo disfraza de mendigo."
+    },
+    { "number": "XIV", "title": "En casa de Eumeo", "summary": "Odiseo es acogido por su fiel porquero Eumeo." },
+    { "number": "XV", "title": "Regreso de Telémaco", "summary": "Telémaco regresa de Esparta y va a casa de Eumeo." },
+    {
+      "number": "XVI",
+      "title": "Padre e hijo",
+      "summary": "Odiseo revela su identidad a Telémaco. Planean la venganza."
+    },
+    {
+      "number": "XVII",
+      "title": "En el palacio",
+      "summary": "Odiseo entra disfrazado al palacio. Su perro Argos lo reconoce."
+    },
+    {
+      "number": "XVIII",
+      "title": "Los mendigos",
+      "summary": "Odiseo pelea con el mendigo Iro y observa a los pretendientes."
+    },
+    {
+      "number": "XIX",
+      "title": "La cicatriz",
+      "summary": "Penélope habla con el mendigo. Euriclea reconoce a Odiseo por su cicatriz."
+    },
+    {
+      "number": "XX",
+      "title": "Víspera de la venganza",
+      "summary": "Señales divinas anuncian la muerte de los pretendientes."
+    },
+    {
+      "number": "XXI",
+      "title": "El arco",
+      "summary": "Penélope propone la prueba del arco. Solo Odiseo logra tensarlo."
+    },
+    {
+      "number": "XXII",
+      "title": "La matanza",
+      "summary": "Odiseo mata a todos los pretendientes con ayuda de Telémaco."
+    },
+    {
+      "number": "XXIII",
+      "title": "Penélope reconoce a Odiseo",
+      "summary": "Penélope pone a prueba a Odiseo y finalmente lo reconoce."
+    },
+    { "number": "XXIV", "title": "La paz", "summary": "Odiseo visita a su padre. Atenea establece la paz en Ítaca." }
+  ],
+  "gallery": [
+    {
+      "title": "Polifemo",
+      "description": "El cíclope gigante, hijo de Poseidón, que Odiseo ciega para escapar de su cueva.",
+      "image": "/placeholder.svg?height=400&width=600"
+    },
+    {
+      "title": "Circe",
+      "description": "La hechicera que convirtió a los compañeros de Odiseo en cerdos y lo retuvo un año.",
+      "image": "/placeholder.svg?height=400&width=600"
+    },
+    {
+      "title": "Las Sirenas",
+      "description": "Criaturas mitad mujer mitad ave cuyo canto mortal Odiseo escuchó atado al mástil.",
+      "image": "/placeholder.svg?height=400&width=600"
+    },
+    {
+      "title": "Escila y Caribdis",
+      "description": "El monstruo de seis cabezas y el remolino mortal entre los que Odiseo debió navegar.",
+      "image": "/placeholder.svg?height=400&width=600"
+    },
+    {
+      "title": "Odiseo con el arco",
+      "description": "El momento en que Odiseo tensa su arco y revela su identidad a los pretendientes.",
+      "image": "/placeholder.svg?height=400&width=600"
+    },
+    {
+      "title": "Penélope tejiendo",
+      "description": "La astuta Penélope tejiendo de día y destejiendo de noche para engañar a los pretendientes.",
+      "image": "/placeholder.svg?height=400&width=600"
+    }
+  ]
+}
